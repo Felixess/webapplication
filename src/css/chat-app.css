@@ -1,0 +1,35 @@
+.welcome-page .input{
+    margin: 30px 0 0 30px;
+}
+
+.enter.button{
+    margin: 50px 30px 30px 160px;
+}
+
+.chat-page .messages-div{
+    height: 400px;
+    max-height:400px;
+    overflow: auto;
+    width: 300px;
+    max-width: 300px;
+}
+
+.item{
+    width: 100px;
+    max-width: 100px;
+}
+
+.ui.segment, .messages-body{
+    margin-top: 9px;
+    margin-bottom: 1px;
+    margin-left: 2px;
+    padding: 0;
+    max-width: 97%;
+    overflow: hidden;
+    white-space: pre-line;
+}
+
+.messages-body{
+    margin: 0;
+    margin-left: 2px;
+}
